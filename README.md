@@ -1,6 +1,6 @@
 "# TheHarmonyCollective" 
 
-The Harmony Collective Website
+The Harmony Collective website
 
 To run program the following programs must be downloaded
 -Python 3.9.1
